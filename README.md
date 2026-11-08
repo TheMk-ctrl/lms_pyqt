@@ -134,7 +134,7 @@ WHERE n.user_id = :user_id AND n.title LIKE :search
 
 ```bash
 # 1. Клонировать репозиторий
-git clone https://github.com/your-username/cryptonotes.git
+git clone https://github.com/themk-ctrl/lms_pyqt.git
 cd cryptonotes
 
 # 2. Установить зависимости
